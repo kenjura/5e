@@ -73,10 +73,10 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'Bertball 5e',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/bert.png',
       },
       items: [
         {
@@ -84,6 +84,12 @@ const config: Config = {
           sidebarId: 'tutorialSidebar',
           position: 'left',
           label: 'Tutorial',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'characterCreationSidebar',
+          position: 'left',
+          label: 'Character Creation',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
