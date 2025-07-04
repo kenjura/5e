@@ -17,22 +17,22 @@ Classes and their paths
   * Swashbuckler?
   * Shadowdancer
   * Spellthief
-* [Arcanist](./Arcanist)
+* [Arcanist](./Arcanist.md)
   * Wizard
   * Sorcerer
-* [Theurgist]()
+* [Theurgist](./Theurgist.md)
   * Priest
   * Seeker
   * (specialty)
-* [Elementalist]()
+* [Elementalist](./Elementalist.md)
   * Elemental Lord
   * Shaman
   * Shifter
   * Channeler
-* [Invoker]()
+* [Invoker](./Invoker.md)
   * Bladebound
   * Summoner
-* [Thaumaturgist]()
+* [Thaumaturgist](./Thaumaturgist)
   * Witch
   * Blood Knight
   * Necromancer

@@ -1,5 +1,6 @@
 ---
 sidebar_label: Character Creation
+sidebar_position: 1
 ---
 Welcome to character creation!
 
