@@ -80,7 +80,8 @@ While every character is a unique expression of all of these traits and more, fo
 ## Background
 
 ### Talents
-- [Musical Talent](./): +1 Cha, gain proficiency in Perform, can use the Bardic Inspiration power.
+- [Acting](./): Gain your Charisma bonus to untrained skill checks. Gain advantage to use Deception to play a role.
+- [Musical Talent](./): Gain proficiency in Perform, can use the Bardic Inspiration power.
 
 
 
